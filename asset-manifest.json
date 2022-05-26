@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Orchard-homepageUI-V3/static/css/main.a6a5084e.css",
+    "main.js": "/Orchard-homepageUI-V3/static/js/main.99d4a479.js",
+    "static/media/video.mp4": "/Orchard-homepageUI-V3/static/media/video.44eb823a00f5c85001ea.mp4",
+    "static/media/stake.svg": "/Orchard-homepageUI-V3/static/media/stake.457f652bb55c2b95c6c5b84738534d58.svg",
+    "static/media/orchardswap.svg": "/Orchard-homepageUI-V3/static/media/orchardswap.e21ff49884b9bad89511926f988cf2aa.svg",
+    "static/media/swap.svg": "/Orchard-homepageUI-V3/static/media/swap.9cd24b4fdf1d459439186fe2eadca69c.svg",
+    "static/media/farm.svg": "/Orchard-homepageUI-V3/static/media/farm.4819b3e5eea8fdbd2095649061061215.svg",
+    "static/media/orchard.svg": "/Orchard-homepageUI-V3/static/media/orchard.9f33d8c6341c1e70bc62eccbe175d575.svg",
+    "static/media/roadmap.jpg": "/Orchard-homepageUI-V3/static/media/roadmap.ac17ab3313317fac609a.jpg",
+    "static/media/shibainu.svg": "/Orchard-homepageUI-V3/static/media/shibainu.baf5068d002e5c08d028b6a96641590c.svg",
+    "static/media/lock.svg": "/Orchard-homepageUI-V3/static/media/lock.ccf4a9d9a847b26ba5106737d3ef8725.svg",
+    "static/media/fiat.svg": "/Orchard-homepageUI-V3/static/media/fiat.f6d086cf04904c039f2a67a421bb9c16.svg",
+    "static/media/returns.svg": "/Orchard-homepageUI-V3/static/media/returns.b479e4bb901135ec2c3b23461b2f6f25.svg",
+    "static/media/sprout.svg": "/Orchard-homepageUI-V3/static/media/sprout.cf38973ab545bfac9242dffd55c03642.svg",
+    "static/media/basket.svg": "/Orchard-homepageUI-V3/static/media/basket.5a713bc6fa525d536d687e8ae72b7256.svg",
+    "static/media/crona.svg": "/Orchard-homepageUI-V3/static/media/crona.ada7bead1237addf437a648fe1afaa84.svg",
+    "static/media/matic.svg": "/Orchard-homepageUI-V3/static/media/matic.45d308c77d053dc6e01bc8d637446daf.svg",
+    "static/media/usdc.svg": "/Orchard-homepageUI-V3/static/media/usdc.2ddace5deacfa1bab9b2c775d24c857a.svg",
+    "static/media/atom.svg": "/Orchard-homepageUI-V3/static/media/atom.4b82322ca52c6ab666e4f587199f361b.svg",
+    "static/media/vault.svg": "/Orchard-homepageUI-V3/static/media/vault.1cbec0c803e5ae0978bf54d67382d6a1.svg",
+    "static/media/avax.svg": "/Orchard-homepageUI-V3/static/media/avax.2e732d9b1d5e54ac1e77b9287e257613.svg",
+    "static/media/fantom.svg": "/Orchard-homepageUI-V3/static/media/fantom.d9747e2b7b361bcafb307f9c846bda41.svg",
+    "static/media/monitor.svg": "/Orchard-homepageUI-V3/static/media/monitor.18f24157b441eb5725b57db1f4c9e481.svg",
+    "static/media/btc.svg": "/Orchard-homepageUI-V3/static/media/btc.3dfb599905c1cddca16bf46b24c3a8ec.svg",
+    "static/media/luna.svg": "/Orchard-homepageUI-V3/static/media/luna.bd9a09bda8520e67777866e0e3c78a26.svg",
+    "index.html": "/Orchard-homepageUI-V3/index.html",
+    "static/media/usdt.svg": "/Orchard-homepageUI-V3/static/media/usdt.dc2cee04d7c68ed1b32c034c12bae12f.svg",
+    "static/media/thor.svg": "/Orchard-homepageUI-V3/static/media/thor.1470caf3ce7d876bdbea947c569cb327.svg",
+    "static/media/dai.svg": "/Orchard-homepageUI-V3/static/media/dai.6b3cb52d068b2a3246a479ad8446c2c3.svg",
+    "static/media/eth.svg": "/Orchard-homepageUI-V3/static/media/eth.609bed68639a6cedd607a0dc14b4cbf0.svg",
+    "main.a6a5084e.css.map": "/Orchard-homepageUI-V3/static/css/main.a6a5084e.css.map",
+    "main.99d4a479.js.map": "/Orchard-homepageUI-V3/static/js/main.99d4a479.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a5084e.css",
+    "static/js/main.99d4a479.js"
+  ]
+}
