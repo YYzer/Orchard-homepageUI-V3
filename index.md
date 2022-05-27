@@ -1,1 +1,2 @@
-Using Gihub actions, a workflow has been created. Upon any push to the main branch, the new updates will be automatically built and deployed on github pages. A Telegram message will also be sent via IFTTT upon any push.
+<ui>Using Gihub actions, a workflow has been created. Upon any push to the main branch, the new updates will be automatically built and deployed on github pages. A Telegram message will also be sent via IFTTT upon any push.</ui>
+<ui>Issue: ghpage does nto show the full web page. Need to click on the logo or any tabs to have the full page loaded</ui>
