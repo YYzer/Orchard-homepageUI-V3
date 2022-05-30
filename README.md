@@ -1,7 +1,7 @@
 # Github actions
 
 Using Gihub actions, a workflow has been created. Upon any push to the main branch, the new updates will be automatically built and deployed on github pages [here](https://yyzer.github.io/Orchard-homepageUI-V3/). \
-A Telegram message will also be sent via IFTTT when there is a new commit to the main branch. \
+A Telegram message will also be sent via IFTTT to the [Orch Channel](https://t.me/+ioDAjAOspY8zNWQ1) when there is a new commit or pull request for the main branch. \
 Issue: ghpage does not show the full web page. Need to click on the logo or any tabs to have the full page loaded.
 
 
