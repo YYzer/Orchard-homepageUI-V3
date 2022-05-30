@@ -2,7 +2,7 @@
 
 Using Gihub actions, a workflow has been created. Upon any push to the main branch, the new updates will be automatically built and deployed on github pages [here](https://yyzer.github.io/Orchard-homepageUI-V3/). \
 A Telegram message will also be sent via IFTTT when there is a new commit to the main branch. \
-Issue: ghpage does nto show the full web page. Need to click on the logo or any tabs to have the full page loaded.
+Issue: ghpage does not show the full web page. Need to click on the logo or any tabs to have the full page loaded.
 
 
 # Getting Started with Create React App
